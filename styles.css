@@ -32,7 +32,6 @@ hr {
 .link {
     text-decoration: none;
     padding: 0.5rem 1rem;
-    margin-right: 1rem;
 }
 
 .link-primary {
@@ -45,6 +44,10 @@ hr {
     color: var(--primary-color);
     border-radius: 0.5rem;
     border: 1px solid var(--primary-color);
+}
+
+.link-rm{
+    margin-right: 1rem;
 }
 
 /** look into BEM naming convention for CSS **/
