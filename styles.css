@@ -37,13 +37,15 @@ hr {
 .link-primary {
     background-color: var(--primary-color);
     border-radius: 0.5rem;
-    color: white
+    color: white;
+    font-size: 0.9rem;
 }
 
 .link-secondary {
     color: var(--primary-color);
     border-radius: 0.5rem;
     border: 1px solid var(--primary-color);
+    font-size: 0.9rem;
 }
 
 .link-rm{
@@ -154,7 +156,7 @@ hr {
 
 .footer a {
     color:white;
-    font-size: 30px;
+    font-size: 2rem;
 }
 
 .footer ul{
