@@ -110,6 +110,7 @@ hr {
     padding-top: 1rem;
     color: var(--dark-gray);
     text-align: center;
+    font-size: 2.5rem;
 }
 
 .hero .hero-heading .heading-inverted {
@@ -165,3 +166,28 @@ hr {
 /* .fa-brands{
     font-size: 30px;
 }  */
+
+.single-blogOff{
+    margin-bottom: 0.5rem;
+    padding: 2rem;
+    background-color: var(--offWhite);
+    max-width: 80%;
+    border-radius: 1rem;
+    -webkit-border-radius: 1rem;
+    -moz-border-radius: 1rem;
+    -ms-border-radius: 1rem;
+    -o-border-radius: 1rem;
+}
+.blog-section  {
+    text-align: center;
+    margin: 4rem auto;
+    border-radius: 1rem;
+    -webkit-border-radius: 1rem;
+    -moz-border-radius: 1rem;
+    -ms-border-radius: 1rem;
+    -o-border-radius: 1rem;
+}
+
+.blog-section h1 {
+    text-align: center;
+}
